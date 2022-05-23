@@ -1,1 +1,1 @@
-﻿echo "test"
+Start "https://www.twitter.com"
